@@ -1,0 +1,54 @@
+
+<html>
+    <head> 
+        <title>
+            Profil Saya
+        </title>
+    </head>
+    <body>
+        <h1>
+            Halo, Saya Zura
+        </h1>
+    </body>
+    <hr>
+    <body> 
+        <h2>
+            Foto Saya
+        </h2>
+    </body>
+
+    <img src="img1.jpg" width="300">
+    <hr>
+    <body>
+        <h2>
+            Data Diri
+        </h2>
+        <h4><p>
+            Nama : Zura <br>
+            Kelas : XII Sufyan <br>
+            Sekolah : SMA Al Irsyad <br>
+            Hobi : Olahraga <br>
+            Cita Cita : Pejabat <br>
+        </p>
+        </h4>
+    </body>
+    <hr>
+    <body>
+        <h2>
+            Tentang Saya
+        </h2>
+        <h4>
+           Halo, Nama saya Zura, saya adalah siswa kelas XII Sufyan 
+        </h4>
+        <h4> 
+           Saat ini saya sedang mempelajari materi HTML
+        </h4>
+    </body>
+    <hr>
+    <body>
+        <h2>
+            Link Favorit
+        </h2>
+        <a href="https://www.wikipedia.org">Wikipedia</a>
+    </body>
+</html>
